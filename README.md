@@ -27,8 +27,8 @@ Smart Workplace is an AI-powered productivity suite that combines voice-controll
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Janavikachi/Smart-Workplace.git
-cd Smart-Workplace
+git clone https://github.com/Janavikachi/smart-workplace.git
+cd smart-workplace
 ```
 
 2. Create a virtual environment:
@@ -45,6 +45,54 @@ python -m venv venv
 ```bash
 pip install -r requirements.txt
 ```
+
+## OCR Setup Instructions
+
+To use the Optical Character Recognition (OCR) feature in the whiteboard, you need to install Tesseract OCR:
+
+### Windows Installation:
+
+1. Download Tesseract OCR:
+   - Go to https://github.com/UB-Mannheim/tesseract/wiki
+   - Download the latest installer (e.g., `tesseract-ocr-w64-setup-5.3.1.20230401.exe` for 64-bit Windows)
+
+2. Install Tesseract:
+   - Run the downloaded installer
+   - Choose the installation directory (default is usually `C:\Program Files\Tesseract-OCR`)
+   - **Important**: Remember the installation path
+
+3. Add Tesseract to System PATH:
+   - Open Windows Search and type "Environment Variables"
+   - Click "Edit the system environment variables"
+   - Click "Environment Variables" button
+   - Under "System Variables", find and select "Path"
+   - Click "Edit"
+   - Click "New"
+   - Add the Tesseract installation path (e.g., `C:\Program Files\Tesseract-OCR`)
+   - Click "OK" on all windows
+
+4. Verify Installation:
+   - Open a new Command Prompt
+   - Type `tesseract --version`
+   - If you see version information, the installation was successful
+
+### Troubleshooting OCR:
+
+1. If `tesseract` command is not recognized:
+   - Double-check that you added the correct path to System PATH
+   - Try restarting your computer
+   - Verify the installation by checking if the Tesseract folder exists in Program Files
+
+2. If OCR is not working in the application:
+   - Make sure Tesseract is properly installed and in PATH
+   - Check if the Python package `pytesseract` is installed
+   - Ensure you have proper permissions to access the Tesseract installation
+
+3. For better OCR results:
+   - Ensure good lighting when using the whiteboard
+   - Write clearly and legibly
+   - Use contrasting colors (dark text on light background)
+   - Keep the text size reasonable
 
 ## Directory Structure
 
@@ -118,10 +166,10 @@ smart-workplace/
    - GitHub: [@PreranaP09](https://github.com/PreranaP09)
    - Email: vu2s2223009@pvppcoe.ac.in
 
-4. Nikhil Sable - VU2S2223015
+3. Nikhil Sable - VU2S2223015
    - GitHub: [@Nikhilsable2405](https://github.com/Nikhilsable2405)
    - Email: vu2s2223015@pvppcoe.ac.in
 
-5. Aaditya Sharma - VU2F2122050
+4. Aaditya Sharma - VU2F2122050
    - GitHub: [@aadimatrix68](https://github.com/aadimatrix68)
    - Email: vu2f2122050@pvppcoe.ac.in
