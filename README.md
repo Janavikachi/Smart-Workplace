@@ -27,8 +27,8 @@ Smart Workplace is an AI-powered productivity suite that combines voice-controll
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Janavikachi/smart-workplace.git
-cd smart-workplace
+git clone https://github.com/Janavikachi/Smart-Workplace.git
+cd Smart-Workplace
 ```
 
 2. Create a virtual environment:
