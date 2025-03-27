@@ -110,18 +110,18 @@ smart-workplace/
  
  ## Authors
 
-1. Janavi Kachi - VU2S2223008
-   - GitHub: @Janavikachi
+1. [Janavi Kachi](https://github.com/Janavikachi) - VU2S2223008
+   - GitHub: [@Janavikachi](https://github.com/Janavikachi)
    - Email: vu2s2223008@pvppcoe.ac.in
 
-2.Prerana Patil -VU2S2223009
-   - GitHub: @PreranaP09
+2. [Prerana Patil](https://github.com/PreranaP09) - VU2S2223009
+   - GitHub: [@PreranaP09](https://github.com/PreranaP09)
    - Email: vu2s2223009@pvppcoe.ac.in
 
-3. Nikhil Sable - VU2S2223015
-   - GitHub: @Nikhilsable2405
+3. [Nikhil Sable](https://github.com/Nikhilsable2405) - VU2S2223015
+   - GitHub: [@Nikhilsable2405](https://github.com/Nikhilsable2405)
    - Email: vu2s2223015@pvppcoe.ac.in
 
-4. Aaditya Sharma - VU2F2122050
-   - GitHub: @aadimatrix68
+4. [Aaditya Sharma](https://github.com/aadimatrix68) - VU2F2122050
+   - GitHub: [@aadimatrix68](https://github.com/aadimatrix68)
    - Email: vu2f2122050@pvppcoe.ac.in
